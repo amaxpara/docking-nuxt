@@ -6,7 +6,7 @@
         docking-nuxt
       </h1>
       <h2 class="subtitle">
-        My excellent Nuxt.js project
+        My excellent Nuxt.js projects
       </h2>
       <div class="links">
         <a
